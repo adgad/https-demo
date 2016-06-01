@@ -1,0 +1,1 @@
+document.getElementById('secure').textContent = 'Secure JS loaded';

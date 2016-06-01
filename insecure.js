@@ -1,0 +1,1 @@
+document.getElementById('insecure').textContent = 'Insecure JS loaded';
